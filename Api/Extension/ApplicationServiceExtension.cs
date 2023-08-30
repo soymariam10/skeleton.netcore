@@ -2,7 +2,7 @@ namespace Api.Extension;
 
     public static class ApplicationServiceExtension
     {
-         public static void ConfigureCors(this IServiceCollection services) =>
+        public static void ConfigureCors(this IServiceCollection services) =>
             services.AddCors(options =>
             {
                 options.AddPolicy("CorsPolicy", builder =>

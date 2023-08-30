@@ -14,7 +14,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.ConfigureCors();
 
 //inyeccion del DbContext al proyecto
-builder.Services.AddDbContext<nombreContext>(options =>
+builder.Services.AddDbContext<SkeletonContext>(options =>
 {
     string connectionString = builder.Configuration.GetConnectionString("ConexMysql");
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
