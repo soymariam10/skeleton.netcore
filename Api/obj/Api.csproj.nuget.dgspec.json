@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/skylab-104/skeleton.netcore/Api/Api.csproj": {}
+    "C:\\Users\\APOLM01\\skeleton.netcore\\Api\\Api.csproj": {}
   },
   "projects": {
-    "/home/skylab-104/skeleton.netcore/Api/Api.csproj": {
+    "C:\\Users\\APOLM01\\skeleton.netcore\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-104/skeleton.netcore/Api/Api.csproj",
+        "projectUniqueName": "C:\\Users\\APOLM01\\skeleton.netcore\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "/home/skylab-104/skeleton.netcore/Api/Api.csproj",
-        "packagesPath": "/home/skylab-104/.nuget/packages/",
-        "outputPath": "/home/skylab-104/skeleton.netcore/Api/obj/",
+        "projectPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Api\\Api.csproj",
+        "packagesPath": "C:\\Users\\APOLM01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-104/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\APOLM01\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-104/skeleton.netcore/Aplicacion/Aplicacion.csproj": {
-                "projectPath": "/home/skylab-104/skeleton.netcore/Aplicacion/Aplicacion.csproj"
+              "C:\\Users\\APOLM01\\skeleton.netcore\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }
@@ -42,11 +42,29 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AspNetCoreRateLimit": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[7.0.10, )"
             },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.10, )"
             },
@@ -74,21 +92,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/skylab-104/skeleton.netcore/Aplicacion/Aplicacion.csproj": {
+    "C:\\Users\\APOLM01\\skeleton.netcore\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-104/skeleton.netcore/Aplicacion/Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\APOLM01\\skeleton.netcore\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "/home/skylab-104/skeleton.netcore/Aplicacion/Aplicacion.csproj",
-        "packagesPath": "/home/skylab-104/.nuget/packages/",
-        "outputPath": "/home/skylab-104/skeleton.netcore/Aplicacion/obj/",
+        "projectPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\APOLM01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-104/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\APOLM01\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -100,11 +118,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-104/skeleton.netcore/Dominio/Dominio.csproj": {
-                "projectPath": "/home/skylab-104/skeleton.netcore/Dominio/Dominio.csproj"
+              "C:\\Users\\APOLM01\\skeleton.netcore\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Dominio\\Dominio.csproj"
               },
-              "/home/skylab-104/skeleton.netcore/Persistencia/Persistencia.csproj": {
-                "projectPath": "/home/skylab-104/skeleton.netcore/Persistencia/Persistencia.csproj"
+              "C:\\Users\\APOLM01\\skeleton.netcore\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -134,21 +152,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/skylab-104/skeleton.netcore/Dominio/Dominio.csproj": {
+    "C:\\Users\\APOLM01\\skeleton.netcore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-104/skeleton.netcore/Dominio/Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\APOLM01\\skeleton.netcore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/home/skylab-104/skeleton.netcore/Dominio/Dominio.csproj",
-        "packagesPath": "/home/skylab-104/.nuget/packages/",
-        "outputPath": "/home/skylab-104/skeleton.netcore/Dominio/obj/",
+        "projectPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\APOLM01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-104/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\APOLM01\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -201,21 +219,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/skylab-104/skeleton.netcore/Persistencia/Persistencia.csproj": {
+    "C:\\Users\\APOLM01\\skeleton.netcore\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-104/skeleton.netcore/Persistencia/Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\APOLM01\\skeleton.netcore\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "/home/skylab-104/skeleton.netcore/Persistencia/Persistencia.csproj",
-        "packagesPath": "/home/skylab-104/.nuget/packages/",
-        "outputPath": "/home/skylab-104/skeleton.netcore/Persistencia/obj/",
+        "projectPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\APOLM01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-104/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\APOLM01\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -227,8 +245,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-104/skeleton.netcore/Dominio/Dominio.csproj": {
-                "projectPath": "/home/skylab-104/skeleton.netcore/Dominio/Dominio.csproj"
+              "C:\\Users\\APOLM01\\skeleton.netcore\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\APOLM01\\skeleton.netcore\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -268,7 +286,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
