@@ -1,7 +1,7 @@
 using System.Linq.Expressions;
 using Dominio.Entities;
 
-namespace Dominio.Interfaces
+namespace Dominio.Interface
 {
     public interface IGenericRepository<T> where T : BaseEntity
     {

@@ -1,6 +1,6 @@
 namespace Dominio.Entities;
 
-    public class UsuariosRoles : BaseEntityA
+    public class UsuariosRoles
     {
         public int UsuarioId { get; set; }
         public Usuario Usuarios { get; set; }

@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Dominio.Entities;
-
-    public class BaseEntity
+namespace Dominio.Interface
+{
+    public interface IUsuarioRepository
     {
-        public string Id { get; set; }
+        
     }
+}
