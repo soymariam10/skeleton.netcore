@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/skylab-106/skeleton.netcore/Persistencia/Persistencia.csproj": {}
+    "/home/skylab-106/skeleton.netcore-1/Persistencia/Persistencia.csproj": {}
   },
   "projects": {
-    "/home/skylab-106/skeleton.netcore/Dominio/Dominio.csproj": {
+    "/home/skylab-106/skeleton.netcore-1/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-106/skeleton.netcore/Dominio/Dominio.csproj",
+        "projectUniqueName": "/home/skylab-106/skeleton.netcore-1/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/home/skylab-106/skeleton.netcore/Dominio/Dominio.csproj",
+        "projectPath": "/home/skylab-106/skeleton.netcore-1/Dominio/Dominio.csproj",
         "packagesPath": "/home/skylab-106/.nuget/packages/",
-        "outputPath": "/home/skylab-106/skeleton.netcore/Dominio/obj/",
+        "outputPath": "/home/skylab-106/skeleton.netcore-1/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/skylab-106/.nuget/NuGet/NuGet.Config"
@@ -71,14 +71,14 @@
         }
       }
     },
-    "/home/skylab-106/skeleton.netcore/Persistencia/Persistencia.csproj": {
+    "/home/skylab-106/skeleton.netcore-1/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-106/skeleton.netcore/Persistencia/Persistencia.csproj",
+        "projectUniqueName": "/home/skylab-106/skeleton.netcore-1/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "/home/skylab-106/skeleton.netcore/Persistencia/Persistencia.csproj",
+        "projectPath": "/home/skylab-106/skeleton.netcore-1/Persistencia/Persistencia.csproj",
         "packagesPath": "/home/skylab-106/.nuget/packages/",
-        "outputPath": "/home/skylab-106/skeleton.netcore/Persistencia/obj/",
+        "outputPath": "/home/skylab-106/skeleton.netcore-1/Persistencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/skylab-106/.nuget/NuGet/NuGet.Config"
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-106/skeleton.netcore/Dominio/Dominio.csproj": {
-                "projectPath": "/home/skylab-106/skeleton.netcore/Dominio/Dominio.csproj"
+              "/home/skylab-106/skeleton.netcore-1/Dominio/Dominio.csproj": {
+                "projectPath": "/home/skylab-106/skeleton.netcore-1/Dominio/Dominio.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5gip8523vcJT4YMe77M49PvBuJfH/sRTxE5hKR73TVWM9Yns+T45PCsgrNyny9fyQisxzpIAWCOq/LTiNZpkYA==",
+  "dgSpecHash": "SR7X/bpTLtAxEq18L4PdW7Gtbp1XlIlY6gb1VaVunCPssTgQaszeUMvgTt/fgLumK48rhj7JF9lPZmkhDtCbaA==",
   "success": true,
-  "projectFilePath": "/home/skylab-106/skeleton.netcore/Api/Api.csproj",
+  "projectFilePath": "/home/skylab-106/skeleton.netcore-1/Api/Api.csproj",
   "expectedPackageFiles": [
     "/home/skylab-106/.nuget/packages/aspnetcoreratelimit/5.0.0/aspnetcoreratelimit.5.0.0.nupkg.sha512",
     "/home/skylab-106/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",

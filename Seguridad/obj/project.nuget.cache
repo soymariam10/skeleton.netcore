@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8M8Kt56QKnOE1t0/y9qwTaLFJ9Ah57RIT8200jG1YxrQggDRtelXzu9U+xoMisNKpsSJDAhAOLevVffgR0NYTA==",
+  "dgSpecHash": "RE4drmxu1EOGoS9zCLIfY2f5TcswndVhMpRN6yr/98ct9G9efsMhVlBiA5fzWVqESqITXcfC44Zt9gjh7szqfQ==",
   "success": true,
-  "projectFilePath": "/home/skylab-106/skeleton.netcore/Seguridad/Seguridad.csproj",
+  "projectFilePath": "/home/skylab-106/skeleton.netcore-1/Seguridad/Seguridad.csproj",
   "expectedPackageFiles": [
     "/home/skylab-106/.nuget/packages/microsoft.identitymodel.abstractions/7.0.0/microsoft.identitymodel.abstractions.7.0.0.nupkg.sha512",
     "/home/skylab-106/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.0/microsoft.identitymodel.jsonwebtokens.7.0.0.nupkg.sha512",

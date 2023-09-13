@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1nicWCNMjSsXw9FLSztczCpUNhHhbtUU3XSrWFqMjMxxe+1/P0fGnzg4lYCcWAFhaohpq/AqWemlxxY6BUtCXw==",
+  "dgSpecHash": "AkqKALWRX4iQLaPoi2Oapx9SXT5JQm7HfCSq6Y1rnJXXYkC0Ik+h0fM4rvoBU4gxCPZmGLpB8RBPfl/a3hN+iw==",
   "success": true,
-  "projectFilePath": "/home/skylab-106/skeleton.netcore/Persistencia/Persistencia.csproj",
+  "projectFilePath": "/home/skylab-106/skeleton.netcore-1/Persistencia/Persistencia.csproj",
   "expectedPackageFiles": [
     "/home/skylab-106/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
     "/home/skylab-106/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

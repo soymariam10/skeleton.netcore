@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aXcu2FIZHqmhqdlDxjRyVutV85/++zyjSIoXfxceOdE/dDU97VlA3cK/jLKwWikv0KYgleyXCpZpwrxnM02cBQ==",
+  "dgSpecHash": "PVnO7Wc1KmnDoP0cr+2YaT9LNWD3q1/wT3bT6SyQU+f44uhx6UshzfcJPANFJ5cnig8LsBO6R/BzWs59Eib7mg==",
   "success": true,
-  "projectFilePath": "/home/skylab-106/skeleton.netcore/Aplicacion/Aplicacion.csproj",
+  "projectFilePath": "/home/skylab-106/skeleton.netcore-1/Aplicacion/Aplicacion.csproj",
   "expectedPackageFiles": [
     "/home/skylab-106/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
     "/home/skylab-106/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

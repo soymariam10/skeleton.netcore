@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L9ubY2FrLI1NLGObfXJ6NC200CX/FAGvbLZYvPqN6pWEUp6ED8GCYdovcQE5C5DZSpCUTUvl0psTZvd6/X5qiQ==",
+  "dgSpecHash": "iIasC8FhSgC7qm0+fY4CIMyYH95dsexuRq9Xjmwu/6luA57iHA+sUOt/6xvLrIwrAdmUj43CPS3zJtf+sqkkjw==",
   "success": true,
-  "projectFilePath": "/home/skylab-106/skeleton.netcore/Dominio/Dominio.csproj",
+  "projectFilePath": "/home/skylab-106/skeleton.netcore-1/Dominio/Dominio.csproj",
   "expectedPackageFiles": [
     "/home/skylab-106/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
     "/home/skylab-106/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
