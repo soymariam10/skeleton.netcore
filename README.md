@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Skeleton NetCore :gem:
 
 _Paso a paso para la reacion de un proyecto en .NetCore_
 
@@ -7,15 +7,13 @@ _Paso a paso para la reacion de un proyecto en .NetCore_
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
-
+---
 
 ### Paso a paso 📋
 antes de iniciar deberias tener un repo y clonarlo en una carpeta de tu servidor, una vez realizado esto ingresamos a la carpeta desde la  terminal y ejecutamos los siguientes comandos.
 
 _1.Crear solucion_
-    ```
-    dotnet new sln
-    ```
+`Código en línea`
 _2.Crear el proyecto Domain_
     ```
     dotnet new classlib -o Domain
