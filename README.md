@@ -13,7 +13,9 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 antes de iniciar deberias tener un repo y clonarlo en una carpeta de tu servidor, una vez realizado esto ingresamos a la carpeta desde la  terminal y ejecutamos los siguientes comandos.
 
 _1.Crear solucion_
-`Código en línea`
+  ```bash
+  docker image ls
+  ```
 _2.Crear el proyecto Domain_
     ```
     dotnet new classlib -o Domain
